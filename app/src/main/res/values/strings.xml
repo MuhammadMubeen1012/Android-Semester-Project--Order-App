@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PI Order App</string>
+    <string-array name="userRoleList">
+        <item>Salesman</item>
+        <item>Operator</item>
+    </string-array>
+
+    <string-array name="companyGroupList">
+        <item>Pharma Inn</item>
+        <item>Pharma Link</item>
+    </string-array>
 </resources>

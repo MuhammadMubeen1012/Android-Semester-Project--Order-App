@@ -3,8 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadd_company_form.xml" value="0.19010416666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadd_customer_form.xml" value="0.17395833333333333" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadd_group_form.xml" value="0.1" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadd_order_form.xml" value="0.25" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadd_product_form.xml" value="0.19010416666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadd_user_form.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piadmin_dashboard.xml" value="0.22" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_picompanies.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_picompany_model.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_picreate_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_picustomers.xml" value="0.18802083333333333" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piedit_company.xml" value="0.19010416666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piedit_customer.xml" value="0.17395833333333333" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piedit_groups.xml" value="0.19010416666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piedit_product.xml" value="0.19010416666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piedit_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pigroup.xml" value="0.20416666666666666" />
         <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pilogin_screen.xml" value="0.25" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pioperator_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piordered_checkout.xml" value="0.25" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piorders.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piproducts.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pisalesman_dashboard.xml" value="0.17" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pishow_companies.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pishow_customers.xml" value="0.17395833333333333" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pishow_groups.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pishow_products.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pishow_users.xml" value="0.20416666666666666" />
         <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_pisplash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/activity_piuser.xml" value="0.22" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/companycard_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/customercard_layout.xml" value="0.18697916666666667" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/groupcard_layout.xml" value="0.203125" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/onelineordercard_layout.xml" value="0.203125" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/productcard_layout.xml" value="0.203125" />
+        <entry key="..\:/WorkingSpace/Android - PI Order App/app/src/main/res/layout/usercard_layout.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
