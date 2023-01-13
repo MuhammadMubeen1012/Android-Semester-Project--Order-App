@@ -9,7 +9,6 @@ import android.util.Log
 import com.example.piorderapp.models.*
 
 class DBHelper(context: Context) : SQLiteOpenHelper(context, DB_NAME, null , DB_VERSION) {
-
     companion object{
         //DB variables
         private val DB_NAME = "pi.db"
